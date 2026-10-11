@@ -1,0 +1,19 @@
+1. Cecil Essentials of Medicine, Tenth Edition, 46. Hematopoiesis and Hematopoietic Failure / Primary Hematopoietic Failure Syndromes:
+
+is warranted for those with advanced neutropenia. Red blood cell and platelet transfusions can help patients who are profoundly symptomatic.
+
+
+
+Current therapeutic approaches to AA focus on replacing the defective HSCs by stem cell transplantation and controlling an overactive immune response with HSC activation. All young patients with severe AA and an HLA-compatible bone marrow donor should be considered for alloSCT, which offers the best chance for definitive cure. Conditioning regimens for those AA patients with congenital abnormalities must be carefully considered prior to alloSCT. Although long-term survival is excellent for patients younger than 30 years transplanted from a sibling donor (75% to 90%), morbidity due to the transplant itself and the management of long-term complications are continuing problems. Outcomes for patients older than 40 years or patients without any HLA-matched related donor are poor.
+
+The presumed immune mechanisms for drug-induced aplasia have led to immunosuppressive approaches to the treatment of AA in older patients, those without a compatible donor and/or otherwise ineligible for alloSCT. Treatment of AA with traditional chemotherapy such as high-dose cyclophosphamide usually has proved too toxic. However, immunosuppressive therapy (IST) using a combination of anti-thymocyte globulin (ATG) and cyclosporine (a specific T-cell inhibitor) restores marrow function and independence from red blood cell or platelet transfusions in up to 70% of patients with a 5-year survival of 90%. Side effects of ATG include anaphylaxis and serum sickness as a result of foreign antigens in the antisera and are usually self-limited. Eltrombopag is an oral TPO mimetic drug originally developed for its ability to stimulate platelet production by binding to MPL receptors on megakaryocytes. In vitro data suggested that administration of high doses of exogenous TPO also could stimulate proliferation and maintenance of HSCs expressing TPO receptors in spite of high levels of endogenous TPO in AA patients. Treatment of refractory severe AA patients with eltrombopag led to hematologic responses in 44% of patients. Subsequently, eltrombopag was added to frontline ATG and cyclosporine (CSA) for newly diagnosed AA and resulted in overall response rates of 80% to 94% after 6 months with excellent long-term survival. Complete hematologic responses occurred in numerous patients with markedly improved marrow cellularity and numbers of measured hematopoietic stem and progenitor cells. This three-drug combination (ATG, CSA, and eltrombopag) has now become the standard of care for up-front treatment of severe AA patients.
+
+Because endogenous cytokine production is usually high in patients with AA, the routine use of growth factors such as G-CSF, EPO, or stem cell factor typically is ineffective. Despite high endogenous TPO levels in AA patients with refractory disease, long-term administration of eltrombopag as maintenance therapy with or without other immunosuppression (ATG, CSA) may have some effect in long-term sustained blood cell counts. Patients who survive initial treatment of AA remain at increased risk for the emergence of other primary hematologic disorders, such as myelodysplasia, leukemia, and paroxysmal nocturnal hemoglobinuria (PNH). A proportion of AA patients also may relapse with loss of hematologic responses over time. Recurrence may warrant retreatment with ATG, androgens, and newer immunosuppressive agents.
+
+
+
+### Paroxysmal Nocturnal Hemoglobinuria
+
+#### Definition, Epidemiology, and Etiology
+
+PNH is a rare disease characterized by intravascular hemolysis, venous thrombosis, and bone
