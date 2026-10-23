@@ -1,0 +1,45 @@
+1. Harrison's Principles of Internal Medicine, Chapter 347: Approach to the Patient with Liver Disease / LIVER DISEASES:
+
+to be subserved by a mechanical pump; a dialysis membrane; or a concoction of infused hormones, proteins, and growth factors.
+
+
+
+## LIVER DISEASES
+
+While there are many causes of liver disease **([Table 347-1](#hpim22_ch347tb1))**, these disorders generally present clinically in a few distinct patterns and are usually classified as hepatocellular, cholestatic (obstructive), or mixed. In hepatocellular diseases (such as viral hepatitis and alcoholic liver disease), features of liver injury, inflammation, and necrosis predominate. In cholestatic diseases, such as gallstone or malignant obstruction, primary biliary cholangitis (previously referred to as primary biliary cirrhosis), and some drug-induced liver diseases, features of inhibition of bile flow predominate. In a mixed pattern, features of both hepatocellular and cholestatic injury are present (such as in cholestatic forms of viral hepatitis and many drug-induced liver diseases). The pattern of onset and prominence of symptoms can rapidly suggest a diagnosis, particularly if major risk factors are considered, such as the age and sex of the patient and a history of exposure or risk behaviors.
+
+TABLE 347-1 Liver Diseases 
+
+<table> <tbody> <tr> <td><p><strong>Inherited hyperbilirubinemia</strong></p> <p> Gilbert syndrome</p> <p> Crigler-Najjar syndrome, types I and II</p> <p> Dubin-Johnson syndrome</p> <p> Rotor syndrome</p> <p><strong>Viral hepatitis</strong></p> <p> Hepatitis A</p> <p> Hepatitis B</p> <p> Hepatitis C</p> <p> Hepatitis D</p> <p> Hepatitis E</p> <p> Others (Epstein-Barr virus [mononucleosis] herpesvirus, cytomegalovirus, adenovirus hepatitis)</p> <p> Cryptogenic hepatitis</p> <p><strong>Immune and autoimmune liver diseases</strong></p> <p> Primary biliary cholangitis</p> <p> Autoimmune hepatitis</p> <p> Sclerosing cholangitis</p> <p> Overlap syndromes</p> <p> Graft-versus-host disease</p> <p> Allograft rejection</p> <p><strong>Genetic liver diseases</strong></p> <p> α<sub>1</sub> Antitrypsin deficiency</p> <p> Hemochromatosis</p> <p> Wilson disease</p> <p> Benign recurrent intrahepatic cholestasis</p> <p> Progressive familial intrahepatic cholestasis, types I–III</p> <p> Others (galactosemia, tyrosinemia, cystic fibrosis, Niemann-Pick-disease, Gaucher’s disease)</p> <p><strong>Alcohol-related liver disease</strong></p> <p> Acute fatty liver</p> <p> Acute alcoholic hepatitis</p> <p> Laënnec cirrhosis</p> <p>Nonalcoholic fatty liver<sup>a</sup></p> <p> Steatosis</p> <p> Steatohepatitis</p> <p><strong>Acute fatty liver of pregnancy</strong></p></td> <td><p><strong>Liver involvement in systemic diseases</strong></p> <p> Sarcoidosis</p> <p> Amyloidosis</p> <p> Glycogen storage diseases</p> <p> Celiac disease</p> <p> Tuberculosis</p> <p> <i>Mycobacterium avium-intracellulare</i> infection</p> <p><strong>Cholestatic syndromes</strong></p> <p> Benign postoperative cholestasis</p> <p> Jaundice of sepsis</p> <p> Total parenteral nutrition–induced jaundice</p> <p> Cholestasis of pregnancy</p> <p> Cholangitis and cholecystitis</p> <p> Extrahepatic biliary obstruction (stone, stricture, cancer)</p> <p> Biliary atresia</p> <p> Caroli disease</p> <p> Cryptosporidiosis</p> <p><strong>Drug-induced liver disease</strong></p> <p> Hepatocellular patterns (<a>isoniazid</a>, <a>acetaminophen</a>)</p> <p> Cholestatic patterns (<a>methyltestosterone</a>)</p> <p> Mixed patterns (sulfonamides, <a>phenytoin</a>)</p> <p> Micro- and macrovesicular steatosis (<a>methotrexate</a>, fialuridine)</p> <p><strong>Vascular injury</strong></p> <p> Sinusoidal obstruction syndrome</p> <p> Budd-Chiari syndrome</p> <p> Ischemic hepatitis</p> <p> Passive congestion</p> <p> Portal vein thrombosis</p> <p> Nodular regenerative hyperplasia</p> <p><strong>Mass lesions</strong></p> <p> Hepatocellular carcinoma</p> <p> Cholangiocarcinoma</p> <p> Adenoma</p> <p> Focal nodular hyperplasia</p> <p> Metastatic tumors</p> <p> Abscess</p> <p> Cysts</p> <p> Hemangioma</p></td> </tr> </tbody> </table>
+
+<sup>a</sup>Also known as metabolic dysfunction–associated steatotic liver disease (MASLD).
+
+Typical presenting symptoms of liver disease include jaundice, fatigue, itching, right-upper-quadrant pain, nausea, poor appetite, abdominal distention, and intestinal bleeding. At present, however, many patients are diagnosed with liver disease who have no symptoms and who have been found to have abnormalities in biochemical liver tests as a part of a routine physical examination or screening for blood donation or for insurance or employment. The wide availability of batteries of liver tests makes it relatively simple to demonstrate the presence of liver injury as well as to rule it out in someone in whom liver disease is suspected.
+
+
+
+Evaluation of patients with liver disease should be directed at determining (1) the etiologic diagnosis, (2) disease severity (grading), and
+
+- - -
+
+2. Harrison's Principles of Internal Medicine, Chapter 356: Liver Transplantation / INDICATIONS:
+
+surgeons, anesthesiologists, and specialists in support services, not to mention the well-informed consent of the patient and the patient’s family.
+
+
+
+### TRANSPLANTATION IN CHILDREN
+
+Indications for transplantation in children are listed in **[Table 356-1](#hpim22_ch356tb1)**. The most common is *biliary atresia*. *Inherited or genetic disorders of metabolism* associated with liver failure constitute another major indication for transplantation in children and adolescents. In Crigler-Najjar disease type I and in certain hereditary disorders of the urea cycle and of amino acid or lactate-pyruvate metabolism, transplantation may be the only way to prevent impending deterioration of central nervous system function, despite the fact that the native liver is structurally normal. Combined heart and liver transplantation has yielded dramatic improvement in cardiac function and in cholesterol levels in children with homozygous familial hypercholesterolemia; combined liver and kidney transplantation has been successful in patients with primary hyperoxaluria type I. In hemophiliacs with transfusion-associated hepatitis and liver failure, liver transplantation has been associated with recovery of normal factor VIII synthesis.
+
+TABLE 356-1 Indications for Liver Transplantation 
+
+<table> <thead> <tr> <th><p>CHILDREN</p></th> <th><p>ADULTS</p></th> </tr> </thead> <tbody> <tr> <td><p>Biliary atresia</p></td> <td><p>Primary biliary cholangitis</p></td> </tr> <tr> <td><p>Neonatal hepatitis</p></td> <td><p>Primary sclerosing cholangitis</p></td> </tr> <tr> <td><p>Congenital hepatic fibrosis</p></td> <td><p>Caroli’s disease<sup>a</sup></p></td> </tr> <tr> <td><p>Alagille’s syndrome<sup>b</sup></p></td> <td><p>Secondary biliary cirrhosis</p></td> </tr> <tr> <td><p>Byler’s disease<sup>c</sup></p></td> <td><p>Autoimmune hepatitis</p></td> </tr> <tr> <td><p>Inherited disorders of metabolism</p></td> <td><p>Hemochromatosis-associated cirrhosis</p></td> </tr> <tr> <td><p>Wilson’s disease</p></td> <td><p>α<sub>1</sub> Antitrypsin deficiency</p></td> </tr> <tr> <td rowspan="8"><p> Tyrosinemia</p> <p> Glycogen storage diseases</p> <p> Lysosomal storage diseases</p> <p> Protoporphyria</p> <p>Crigler-Najjar disease type I</p> <p>Familial hypercholesterolemia</p> <p>Primary hyperoxaluria type I</p> <p>Hemophilia</p></td> <td><p>Metabolic dysfunction–associated steatohepatitis (MASH)<sup>d</sup></p></td> </tr> <tr> <td><p>Alcohol-associated cirrhosis</p></td> </tr> <tr> <td><p>Severe alcohol-associated hepatitis</p></td> </tr> <tr> <td><p>Cryptogenic cirrhosis</p></td> </tr> <tr> <td><p>Chronic viral hepatitis with cirrhosis</p></td> </tr> <tr> <td><p>Hepatic venous outflow obstruction (Budd-Chiari syndrome)</p></td> </tr> <tr> <td><p>Acute liver failure (ALF)</p></td> </tr> <tr> <td><p>Hepatocellular carcinoma</p></td> </tr> <tr> <td rowspan="6"> </td> <td><p>Select cases for the following indications:</p></td> </tr> <tr> <td><p> Hepatic adenomas</p></td> </tr> <tr> <td><p> Familial amyloidosis</p></td> </tr> <tr> <td><p> Hepatic epithelioid hemangioendothelioma (HEHE)</p></td> </tr> <tr> <td><p> Erythropoietic protoporphyria (EPP)</p></td> </tr> <tr> <td><p> Metastatic neuroendocrine tumors</p></td> </tr> <tr> <td><p> </p></td> <td><p> Polycystic liver disease</p></td> </tr> </tbody> </table>
+
+<sup>a</sup>Multiple cystic dilatations of the intrahepatic biliary tree. <sup>b</sup>Arteriohepatic dysplasia, with paucity of bile ducts, and congenital malformations, including pulmonary stenosis. <sup>c</sup>Intrahepatic cholestasis, progressive liver failure, and mental and growth retardation. <sup>d</sup>Formerly nonalcoholic steatohepatitis (NASH).
+
+
+
+### TRANSPLANTATION IN ADULTS
+
+Liver transplantation is indicated for end-stage *cirrhosis* of all causes ([Table 356-1](#hpim22_ch356tb1)). In *sclerosing cholangitis* and *Caroli’s
