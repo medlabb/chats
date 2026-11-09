@@ -1,0 +1,6 @@
+1. Neeral L Shah, MD, Keith D Lindor, MD, & Claire Meyer, MD (2026). ***Ascites in adults with cirrhosis: Initial therapy: ## Paracentesis for large-volume ascites.*** *UpToDate* (2026 ed.). Wolters Kluwer.:
+
+## Paracentesis for large-volume ascites
+If the patient has tense ascites and/or bothersome symptoms (eg, abdominal pain from distension), we suggest an initial therapeutic paracentesis in addition to diuretics. We typically remove 4 to 5 L of ascites, which usually results in more rapid improvement in symptoms compared with diuretic therapy alone. Removal of less than 5 liters of fluid does not appear to have hemodynamic or hormonal consequences, and post-paracentesis colloid infusion does not appear to be necessary [51].
+For larger paracenteses (>5 L), albumin (6 to 8 g/L of fluid removed) should be administered [52]. The rationale for this is discussed in detail elsewhere. (See"Ascites in adults with cirrhosis: Refractory ascites".)
+We prefer to treat diuretic-sensitive patients with diet and diuretics and to reserve serial large volume paracentesis (LVP) for patients who are truly diuretic resistant. Repeated LVP may result in protein and complement depletion. In theory, this may indirectly predispose to ascitic fluid infection, though no definitive data are available [53,54].
